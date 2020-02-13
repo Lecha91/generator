@@ -1,13 +1,9 @@
 .SingleComponent {
-  position: absolute;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
   width: 100%;
-  height: 30px;
+  text-align: center;
 }
 
 h1 {
   font-size: 2rem;
+  padding: 1rem;
 }
